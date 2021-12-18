@@ -1,0 +1,42 @@
+body{
+  padding:0;
+  margin:0;
+  background:#fff;
+}
+.tabs{
+  color:#333;
+  background:#eee;
+  cursor:pointer;
+  border-bottom:2px solid #ddd;
+  display: flex;
+  text-align:center;
+}
+.tab{
+  padding:15px;
+  background:#eee;
+  display:inline-block;
+  color:#333;
+}
+.tab.is-active{
+  background-color: #888;
+  color: #fff;
+}
+
+.tab-content-item{
+  display: none;
+}
+
+.tab-content-item.is-show{
+  display: flex;
+}
+
+.badge {
+  padding: 3px 6px;
+  margin-right: 8px;
+  margin-left: 1px;
+  font-size: 75%;
+  color: #fff;
+  border-radius: 6px;
+  white-space: nowrap;
+  background-color: #ff9f43;
+}

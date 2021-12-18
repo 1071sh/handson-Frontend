@@ -1,0 +1,139 @@
+{
+  "list": [
+    {
+      "heading": "ニュース",
+      "thumbnail": "./img/news.jpg",
+      "is_active": true,
+      "articles": [
+        {
+          "title": "事務所を移転しました。",
+          "comment": ["おめでとうございます", "おめでとうございます"],
+          "is_old": false
+        },
+        {
+          "title": "楽々チョイス!に弊社が紹介されました。",
+          "comment": ["おめでとうございます", "おめでとうございます"],
+          "is_old": true
+        },
+        {
+          "title": "EPSON Partner'sNetに弊社の製品が掲載されました。",
+          "comment": [],
+          "is_old": true
+        },
+        {
+          "title": "全ドラ新聞(クリーニング業界専門新聞)に弊社が紹介されました。",
+          "comment": [],
+          "is_old": false
+        }
+      ]
+    },
+    {
+      "heading": "経済",
+      "thumbnail": "./img/economy.jpg",
+      "is_active": false,
+      "articles": [
+        {
+          "title": "P&G シャンプー18.9万本を回収",
+          "comment": ["おめでとうございます", "おめでとうございます"],
+          "is_old": false
+        },
+        {
+          "title": "「マルタイラーメン」なぜ人気",
+          "comment": ["おめでとうございます", "おめでとうございます"],
+          "is_old": true
+        },
+        {
+          "title": "需要激減 三重苦のネクタイ業界",
+          "comment": [],
+          "is_old": true
+        },
+        {
+          "title": "野菜が安い 生産者はうなだれる",
+          "comment": [],
+          "is_old": false
+        }
+      ]
+    },
+    {
+      "heading": "エンタメ",
+      "thumbnail": "./img/entertainment.jpg",
+      "is_active": false,
+      "articles": [
+        {
+          "title": "渡辺直美、NYで新型コロナ感染",
+          "comment": ["おめでとうございます", "おめでとうございます"],
+          "is_old": false
+        },
+        {
+          "title": "キンタロー。第2子出産を報告",
+          "comment": ["おめでとうございます", "おめでとうございます"],
+          "is_old": true
+        },
+        {
+          "title": "笑いに優劣 クリアした「M-1」",
+          "comment": [],
+          "is_old": true
+        },
+        {
+          "title": "生きるしかない 有村昆の後悔",
+          "comment": [],
+          "is_old": false
+        }
+      ]
+    },
+    {
+      "heading": "スポーツ",
+      "thumbnail": "./img/sports.jpg",
+      "is_active": false,
+      "articles": [
+        {
+          "title": "仏サッカーでまたも暴動 中止に",
+          "comment": ["おめでとうございます", "おめでとうございます"],
+          "is_old": false
+        },
+        {
+          "title": "イチロー氏 女子高生を17K完封",
+          "comment": ["おめでとうございます", "おめでとうございます"],
+          "is_old": true
+        },
+        {
+          "title": "ウッズが事故後初プレー 320yも",
+          "comment": [],
+          "is_old": true
+        },
+        {
+          "title": "初芝氏 社会人新興チーム監督に",
+          "comment": [],
+          "is_old": false
+        }
+      ]
+    },
+    {
+      "heading": "国内",
+      "thumbnail": "./img/domestic.jpg",
+      "is_active": false,
+      "articles": [
+        {
+          "title": "首相 水際対策を延長する考え",
+          "comment": ["おめでとうございます", "おめでとうございます"],
+          "is_old": false
+        },
+        {
+          "title": "コロナ飲み薬 全額公費負担へ",
+          "comment": ["この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。"],
+          "is_old": true
+        },
+        {
+          "title": "硫酸事件 スピード逮捕の舞台裏",
+          "comment": [],
+          "is_old": true
+        },
+        {
+          "title": "早紀江さん 飯塚氏死去に悔しさ",
+          "comment": ["この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。"],
+          "is_old": false
+        }
+      ]
+    }
+  ]
+}
